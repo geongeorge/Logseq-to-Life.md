@@ -36,3 +36,5 @@ Run the script from the command line:
 ```bash
 python app.py /path/to/logseq/folder
 ```
+
+Check your current directory for a `life.md` file
